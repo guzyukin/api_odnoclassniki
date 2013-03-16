@@ -1,0 +1,16 @@
+http://api-sandbox.odnoklassniki.ru:8088/api/friends/get?application_key=[Application%20Key]&sig=[Signature]&session_key=[Session%20Key]
+http://www.odnoklassniki.ru/oauth/authorize?client_id={clientId}&scope={scope}&response_type={responseType}&redirect_uri={redirectUri}
+http://dev.odnoklassniki.ru/wiki/pages/viewpage.action?pageId=12878032 - oauth
+
+https://github.com/fernandezpablo85/scribe-java
+
+http://habrahabr.ru/post/145988/
+http://dev.odnoklassniki.ru/wiki/pages/viewpage.action?pageId=12878032
+
+http://www.odnoklassniki.ru/oauth/authorize?client_id=163471616&response_type=code&redirect_uri=http://mysite.com/oklogin&scope=VALUABLE ACCESS
+http://mysite.com/oklogin?code=7.d794901a83d3f9281520baa1e21441dcc9bc43c7d04eab23df6831ef9_21dc1daf66d2925d90ee2f986b2d13fe_1362596297
+{"token_type":"session","refresh_token":"914768952631_602638aad49655629466d52365a4546ccb_447349e","access_token":"d8ipa.1djw02m5e146n1e4z3kobsrva18-5"}
+
+
+1036fd02a87999daaa8891372a2f571c
+http://api.odnoklassniki.ru/api/users/getCurrentUser?access_token=6ripa.6-01av1g5s0172p4nl2f2i3k5hbsb&application_key=CBACGPLKABABABABA&sig=3cbe699407c879e294dc6f2c375597dd
